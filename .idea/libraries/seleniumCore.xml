@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seleniumCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../seleniumCore (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
